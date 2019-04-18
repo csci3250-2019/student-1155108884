@@ -25,3 +25,4 @@ Milestone 2#|First repository
 
 Screenshot of Git commands:
 ![](screenshot.png)
+![](screenshot2.png)
